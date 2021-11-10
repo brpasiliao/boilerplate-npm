@@ -12,5 +12,11 @@
     "url": "https://idontknow/todo.git"
   },
   "author": "Bian Pasiliao",
-  "description": "A project that does something awesome"
+  "description": "A project that does something awesome",
+  "keywords": [
+    "descriptive",
+    "related",
+    "words",
+    "freecodecamp"
+  ]
 }
