@@ -11,5 +11,6 @@
     "type": "git",
     "url": "https://idontknow/todo.git"
   },
-  "author": "Bian Pasiliao"
+  "author": "Bian Pasiliao",
+  "description": "A project that does something awesome"
 }
